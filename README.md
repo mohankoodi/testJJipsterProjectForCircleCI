@@ -1,1 +1,1 @@
-# testJJipsterProjectForCircleCI
+# Testing build JHipster to CircleCI
